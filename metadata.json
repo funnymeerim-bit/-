@@ -1,0 +1,6 @@
+{
+  "name": "Ala-Too Amir",
+  "description": "Premium Kyrgyz traditional dairy products e-commerce store with bilingual options, responsive products catalog, persistent checkout cart, and interactive Kara-Suu maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
